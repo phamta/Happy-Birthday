@@ -47,37 +47,37 @@ function App() {
   const birthdayCards = [
     {
       id: 1,
-      image: "/public/card1.jpg",
+      image: "/card1.jpg",
       wish: "Chúc bạn một tuổi mới tràn đầy niềm vui và hạnh phúc! 🎉",
       title: "Hạnh Phúc Mỗi Ngày",
     },
     {
       id: 2,
-      image: "/public/card2.jpg",
+      image: "/card2.jpg",
       wish: "Mong rằng tất cả ước mơ của bạn sẽ thành hiện thực! ✨",
       title: "Ước Mơ Thành Thật",
     },
     {
       id: 3,
-      image: "/public/card3.jpg",
+      image: "/card3.jpg",
       wish: "Chúc bạn sức khỏe dồi dào và luôn tươi trẻ! 💖",
       title: "Sức Khỏe Tốt",
     },
     {
       id: 4,
-      image:"/public/card4.jpg",
+      image:"/card4.jpg",
       wish: "Hy vọng năm mới mang đến cho bạn nhiều thành công! 🌟",
       title: "Thành Công Rực Rỡ",
     },
     {
       id: 5,
-      image:"/public/card5.jpg",
+      image:"/card5.jpg",
       wish: "Chúc bạn luôn được bao quanh bởi tình yêu thương! 💕",
       title: "Tình Yêu Vô Tận",
     },
     {
       id: 6,
-      image:"/public/card6.jpg",
+      image:"/card6.jpg",
       wish: "Sinh nhật vui vẻ! Chúc bạn một năm tuyệt vời phía trước! 🎂",
       title: "Năm Mới Tuyệt Vời",
     },

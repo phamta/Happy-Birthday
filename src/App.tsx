@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import { useState, useEffect } from "react";
 import { Gift, Heart, Sparkles, Star, Cake, PartyPopper } from "lucide-react";
 
 interface TimeLeft {
@@ -18,7 +18,7 @@ function App() {
   const [showGifts, setShowGifts] = useState(false);
   const [isCountdownEnded, setIsCountdownEnded] = useState(false);
 
-  const targetDate = new Date("2025-09-11T00:00:00").getTime();
+  const targetDate = new Date("2025-09-10T00:00:00").getTime();
 
   useEffect(() => {
     const timer = setInterval(() => {
